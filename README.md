@@ -95,3 +95,6 @@ otp-generator --secret JBSWY3DPEHPK3PXP --validate 123456
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+[pyotp](https://github.com/jpf/pyotp) for generating otp
